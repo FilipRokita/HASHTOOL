@@ -4,10 +4,7 @@ Simple tool that creates hash from given input. You can input file by entering t
 <img src="HASHTOOL.png">
 
 # Usage
-1. Run the script by:
-```
-python3 HASHTOOL.py
-```
+1. Run the script
 2. Input text or file path and click enter
 3. Result will be displayed when program finishes hashing
 
